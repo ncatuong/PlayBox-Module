@@ -28,4 +28,4 @@
 
 -- Thanks tester: none --
 
-Have any problem, please tell it in "Help" topic please:D. Please remove the old version (Revision 1 or Release1) before u install this version! :D
+Have any problem, please create issue!
