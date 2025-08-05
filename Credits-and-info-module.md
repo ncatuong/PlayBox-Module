@@ -16,11 +16,11 @@
 
 **Alternative version available:**
 
- _- No CSM (No China Smart Manager)
+ - No CSM (No China Smart Manager)
  
  - No CSM (No China Smart Manager)  + Kali Bootanimation
  
- - Normal + Kali Bootanimation_
+ - Normal + Kali Bootanimation
 
 **Based:** Old project (not release:D) - AiO Box
 
