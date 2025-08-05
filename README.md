@@ -1,5 +1,5 @@
 # PlayBox ✨
-PlayBox - all-in-one features :D ✨
+PlayBox - all-in-one features :D ✨ and open-source!
 
 The version available:
 
@@ -8,4 +8,3 @@ The version available:
 Newer version (Comming soon):
 
 **- PlayBox - Tray**
-
